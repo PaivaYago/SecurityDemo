@@ -10,7 +10,7 @@
 </br>This project is an APi built using Java whit Spring, using PostgreSQL as the database and the authentication method is Spring Security with JWT.
 
 ### O objetivo deste projeto é exemplificar uma implementação de Spring Security, como fonte de estudos.
-</br>This project's goes is exemplifier an implemetation of Spring Security, just for study.
+</br>This project's goes is exemplify an implemetation of Spring Security, just for study.
 
 <h2>Instalação</h2>
 Installation
